@@ -85,7 +85,7 @@ export default function Contact() {
               </div>
             </div>
 
-            <h2 className='mt-8 text-4xl font-extrabold leading-tight tracking-[-0.03em] md:text-5xl'>
+            <h2 className='mt-8 text-4xl font-extrabold leading-tight tracking-[-0.03em] md:text-5xl mt-[215px] w-[522px]'>
               Great results begin with clear ideas.
             </h2>
 

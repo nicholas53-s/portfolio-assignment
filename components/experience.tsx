@@ -29,7 +29,7 @@ export default function Experience() {
           <span className='rounded-full border border-gray-300 px-4 py-1 text-sm font-bold text-gray-700'>
             Work Experience
           </span>
-          <h2 className='mt-3 max-w-[640px] text-3xl font-extrabold tracking-[-0.03em] text-gray-900 md:text-5xl'>
+          <h2 className='mt-3 max-w-[640px] text-3xl font-extrabold tracking-[-0.03em] text-gray-900 md:text-[40px]'>
             A timeline of companies and roles that helped shape my skills.
           </h2>
         </motion.div>

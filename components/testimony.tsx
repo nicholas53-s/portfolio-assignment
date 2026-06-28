@@ -1,4 +1,4 @@
-'use client'; // WAJIB: pakai useState/useEffect (interaktif)
+'use client';
 
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
@@ -102,7 +102,7 @@ export default function Testimony() {
             <span className='rounded-full border border-gray-300 px-4 py-1 text-sm font-bold text-gray-700'>
               Testimony
             </span>
-            <h2 className='mt-3 max-w-[600px] text-3xl font-extrabold tracking-[-0.03em] text-gray-900 md:text-5xl'>
+            <h2 className='mt-3 max-w-[600px] text-3xl font-extrabold tracking-[-0.03em] text-gray-900 md:text-[40px]'>
               Built with Trust & Collaboration
             </h2>
           </div>

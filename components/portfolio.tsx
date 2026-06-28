@@ -21,7 +21,7 @@ export default function Portfolio() {
           <span className='rounded-full border border-gray-300 px-4 py-1 text-sm font-bold text-gray-700'>
             Portfolio
           </span>
-          <h2 className='mt-3 max-w-[700px] text-3xl font-extrabold tracking-[-0.03em] text-gray-900 md:text-5xl'>
+          <h2 className='mt-3 max-w-[800px] text-3xl font-extrabold tracking-[-0.03em] text-gray-900 md:text-[40px]'>
             Built with Passion, Shipped with Precision
           </h2>
         </div>
