@@ -73,7 +73,7 @@ export default function Contact() {
           >
             <div className='flex items-center gap-3'>
               <Image
-                src='/Profile-Picture.png'
+                src='/Profile-Picture.svg'
                 alt='Edwin Anderson'
                 width={48}
                 height={48}
